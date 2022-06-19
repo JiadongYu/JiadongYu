@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiadong
 - 👀 I’m interested in learning about programming and computer science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: jiadong.yu2002@gmail.com OR https://www.linkedin.com/in/jiadong-yu-a207801b3/
 
 <!---
